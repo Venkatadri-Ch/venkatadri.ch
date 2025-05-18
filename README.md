@@ -28,6 +28,8 @@ To secure a challenging position in the field of Cyber Security where I can appl
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
+
 </div>
 
 ### Endpoint
@@ -49,10 +51,11 @@ To secure a challenging position in the field of Cyber Security where I can appl
 <div>
 
 <img src="https://img.shields.io/badge/-Penetration%20Testing-FF0000?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
+<img src="https://img.shields.io/badge/Udemy-Wireshark%20Course-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-IT%20Essentials-blue?style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
 ## Projects
 - Real-time Detection Lab
-- SOC Automation Project
-- integrating snort with real-time SIEM solution
+- integrating IDS(Snort) with real-time SIEM solution(Splunk)
