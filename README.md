@@ -21,7 +21,6 @@ To secure a challenging position in the field of Cyber Security where I can appl
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -57,5 +56,4 @@ To secure a challenging position in the field of Cyber Security where I can appl
 </div>
 
 ## Projects
-- Real-time Detection Lab
 - integrating IDS(Snort) with real-time SIEM solution(Splunk)https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection
